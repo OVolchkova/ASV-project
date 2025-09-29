@@ -18,7 +18,7 @@
 
 3) В файле [LSE_project_data structuring (2).ipynb](https://github.com/OVolchkova/ASV-project/blob/main/LSE_project_data%20structuring%20(2).ipynb) - содержится программа структурирования данных для более удобной последующей обработки данных
 
-4) [Parsed_files (2).zip]([https://github.com/OVolchkova/ANDAN_project/blob/main/Step2_EDA.ipynb](https://github.com/OVolchkova/ASV-project/blob/main/Parsed_files%20(2).zip)) - архив файлов с предобработанными данными
+4) [Parsed_files (2).zip](https://github.com/OVolchkova/ASV-project/blob/main/Parsed_files%20(2).zip) - архив файлов с предобработанными данными
 
 
 
